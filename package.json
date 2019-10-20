@@ -1,0 +1,8 @@
+{
+  "name": "formcert",
+  "version": "1.0.0",
+  "description": "A simple form validation library.",
+  "main": "index.js",
+  "author": "Keith Ward <trueinviso@gmail.com>",
+  "license": "MIT"
+}
