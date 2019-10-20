@@ -129,3 +129,5 @@ this.validator = {
     this.remove_red_border(id);
   }
 };
+
+export { validator };
