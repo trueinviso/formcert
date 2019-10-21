@@ -1,4 +1,4 @@
-this.validator = {
+export let validator = {
   validate_is_empty: function(id) {
     return document.querySelector(id).value.length === 0;
   },
@@ -129,5 +129,3 @@ this.validator = {
     this.remove_red_border(id);
   }
 };
-
-export { validator };
